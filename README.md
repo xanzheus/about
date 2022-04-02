@@ -1,2 +1,1 @@
-# belajarqywok.github.io
- blabla
+blabla
